@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amishyn/static/css/main.4a19b82a.css",
+    "main.js": "/amishyn/static/js/main.b3d34528.js",
+    "static/js/488.a4626f8f.chunk.js": "/amishyn/static/js/488.a4626f8f.chunk.js",
+    "index.html": "/amishyn/index.html",
+    "main.4a19b82a.css.map": "/amishyn/static/css/main.4a19b82a.css.map",
+    "main.b3d34528.js.map": "/amishyn/static/js/main.b3d34528.js.map",
+    "488.a4626f8f.chunk.js.map": "/amishyn/static/js/488.a4626f8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a19b82a.css",
+    "static/js/main.b3d34528.js"
+  ]
+}
