@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/futsal/static/css/main.c356b7ac.css",
-    "main.js": "/futsal/static/js/main.ec1d0b69.js",
+    "main.css": "/futsal/static/css/main.a32926a2.css",
+    "main.js": "/futsal/static/js/main.aabb8d7d.js",
     "static/js/488.a4626f8f.chunk.js": "/futsal/static/js/488.a4626f8f.chunk.js",
     "index.html": "/futsal/index.html",
-    "main.c356b7ac.css.map": "/futsal/static/css/main.c356b7ac.css.map",
-    "main.ec1d0b69.js.map": "/futsal/static/js/main.ec1d0b69.js.map",
+    "main.a32926a2.css.map": "/futsal/static/css/main.a32926a2.css.map",
+    "main.aabb8d7d.js.map": "/futsal/static/js/main.aabb8d7d.js.map",
     "488.a4626f8f.chunk.js.map": "/futsal/static/js/488.a4626f8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c356b7ac.css",
-    "static/js/main.ec1d0b69.js"
+    "static/css/main.a32926a2.css",
+    "static/js/main.aabb8d7d.js"
   ]
 }
